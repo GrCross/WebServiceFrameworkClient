@@ -31,7 +31,7 @@ una vez descargado el proyecto se procede se procede a compilarlo.
 Para la compilación es preferible usar cualquier editor de codigo que permita dicha acción.
 
 
-###Ejecucion
+### Ejecucion
 para poder correr el programa se puede hacer de las dos siguientes formas.
 
 1) desde un editor de codigo que permita al accion de correr el programa y a la vez permita pasarle argumentos a la funcion main del proyecto
@@ -42,7 +42,7 @@ para poder correr el programa se puede hacer de las dos siguientes formas.
 java -jar <nombre del archivo jar> <direccion http>
 ````
 
-###Pruebas
+### Test
 De acuerdo a la prueba que se va a hacer los resultados de esta se mostrar en el archivo resultados.txt
 adema si las peticiones que el recibe las mostrar en la consola, si alguna no fue respondida recibira cada uno de los errores del servidor
 
